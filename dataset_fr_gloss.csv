@@ -1,0 +1,450 @@
+fr,gloss,category,gloss_rules,match
+Je bois du café.,IX-1 CAFÉ BOIRE,phrases_simples,IX-1 CAFÉ BOIRE,True
+Tu écoutes de la musique.,IX-2 MUSIQUE ÉCOUTER,phrases_simples,TU ÉCOUTE+ MUSIQUE,False
+Il écrit une lettre.,IX-3 LETTRE ÉCRIRE,phrases_simples,IX-3 LETTRE ÉCRIRE,True
+Nous préparons le dîner.,IX-1-PL DINER PRÉPARER,phrases_simples,IX-1-PL DÎNER PRÉPARER,False
+Vous visitez un musée.,IX-2-PL MUSÉE VISITER,phrases_simples,IX-2-PL MUSÉE VISITER,True
+Ils jouent au football.,IX-3-PL FOOTBALL JOUER,phrases_simples,IX-3-PL FOOTBALL JOUER,True
+Je vois mes amis.,IX-1 POSS-1 AMI+ VOIR,phrases_simples,IX-1 POSS-1 AMI+ VOIR,True
+Tu achètes des fruits.,IX-2 FRUIT+ ACHETER,phrases_simples,TU FRUIT+ ACHETER,False
+Elle porte une robe.,IX-3 ROBE PORTER,phrases_simples,IX-3 ROBE PORTER,True
+Nous allons à l'école.,IX-1-PL ÉCOLE ALLER,phrases_simples,IX-1-PL ÉCOLE ALLER,True
+Vous lisez un journal.,IX-2-PL JOURNAL LIRE,phrases_simples,IX-2-PL JOURNAL LIRE,True
+Ils regardent un film.,IX-3-PL FILM REGARDER,phrases_simples,IX-3-PL FILM REGARDER,True
+Je prends le bus.,IX-1 BUS PRENDRE,phrases_simples,IX-1 BUS PRENDRE,True
+Tu manges une pizza.,IX-2 PIZZA MANGER,phrases_simples,TU PIZZA MANGER,False
+Il conduit une voiture.,IX-3 VOITURE CONDUIRE,phrases_simples,IX-3 VOITURE CONDUIRE,True
+Nous buvons de l'eau.,IX-1-PL EAU BOIRE,phrases_simples,IX-1-PL EAU BOIRE,True
+Vous écoutez un podcast.,IX-2-PL PODCAST ÉCOUTER,phrases_simples,IX-2-PL PODCAST ÉCOUTER,True
+Ils jouent aux échecs.,IX-3-PL ÉCHEC+ JOUER,phrases_simples,IX-3-PL ÉCHEC+ JOUER,True
+Je fais mes devoirs.,IX-1 POSS-1 DEVOIR+ FAIRE,phrases_simples,IX-1 POSS-1 DEVOIR+ FAIRE,True
+Tu prépares un gâteau.,IX-2 GÂTEAU PRÉPARER,phrases_simples,TU GÂTEAU PRÉPARER,False
+Elle regarde la télévision.,IX-3 TÉLÉVISION REGARDER,phrases_simples,IX-3 TÉLÉVISION REGARDER,True
+Nous visitons un parc.,IX-1-PL PARC VISITER,phrases_simples,IX-1-PL PARC VISITER,True
+Vous lisez un livre.,IX-2-PL LIVRE LIRE,phrases_simples,IX-2-PL LIVRE LIRE,True
+Ils jouent au tennis.,IX-3-PL TENNIS JOUER,phrases_simples,IX-3-PL TENNIS JOUER,True
+Je bois un jus d'orange.,IX-1 JUS D'ORANGE BOIRE,phrases_simples,IX-1 BOIS ORANGE JUS,False
+Tu manges une salade.,IX-2 SALADE MANGER,phrases_simples,TU SALADE MANGER,False
+Il écrit un rapport.,IX-3 RAPPORT ÉCRIRE,phrases_simples,IX-3 RAPPORT ÉCRIRE,True
+Nous regardons un match.,IX-1-PL MATCH REGARDER,phrases_simples,IX-1-PL MATCH REGARDER,True
+Vous écoutez de la musique classique.,IX-2-PL MUSIQUE CLASSIQUE ÉCOUTER,phrases_simples,IX-2-PL MUSIQUE CLASSIQUE ÉCOUTER,True
+Ils jouent au basket.,IX-3-PL BASKET JOUER,phrases_simples,IX-3-PL BASKET JOUER,True
+Je fais du vélo.,IX-1 VÉLO FAIRE,phrases_simples,IX-1 VÉLO FAIRE,True
+Tu prépares le petit-déjeuner.,IX-2 PETIT-DÉJEUNER PRÉPARER,phrases_simples,TU PETIT-DÉJEUNER PRÉPARER,False
+Elle lit un magazine.,IX-3 MAGAZINE LIRE,phrases_simples,IX-3 MAGAZINE LIRE,True
+Nous visitons un zoo.,IX-1-PL ZOO VISITER,phrases_simples,IX-1-PL ZOO VISITER,True
+Vous regardez un documentaire.,IX-2-PL DOCUMENTAIRE REGARDER,phrases_simples,IX-2-PL DOCUMENTAIRE REGARDER,True
+Ils jouent aux cartes.,IX-3-PL CARTE+ JOUER,phrases_simples,IX-3-PL CARTE+ JOUER,True
+Je prends un café.,IX-1 CAFÉ PRENDRE,phrases_simples,IX-1 CAFÉ PRENDRE,True
+Tu manges une pomme.,IX-2 POMME MANGER,phrases_simples,TU POMME MANGER,False
+Il conduit un camion.,IX-3 CAMION CONDUIRE,phrases_simples,IX-3 CAMION CONDUIRE,True
+Nous buvons du thé.,IX-1-PL THÉ BOIRE,phrases_simples,IX-1-PL THÉ BOIRE,True
+Vous écoutez un concert.,IX-2-PL CONCERT ÉCOUTER,phrases_simples,IX-2-PL CONCERT ÉCOUTER,True
+Ils jouent au golf.,IX-3-PL GOLF JOUER,phrases_simples,IX-3-PL GOLF JOUER,True
+Je fais mes courses.,IX-1 POSS-1 COURSE+ FAIRE,phrases_simples,IX-1 POSS-1 COURSE+ FAIRE,True
+Tu prépares un sandwich.,IX-2 SANDWICH PRÉPARER,phrases_simples,TU SANDWICH PRÉPARER,False
+Elle regarde un film.,IX-3 FILM REGARDER,phrases_simples,IX-3 FILM REGARDER,True
+Nous visitons un aquarium.,IX-1-PL AQUARIUM VISITER,phrases_simples,IX-1-PL AQUARIUM VISITER,True
+Vous lisez un article.,IX-2-PL ARTICLE LIRE,phrases_simples,IX-2-PL ARTICLE LIRE,True
+Ils jouent au rugby.,IX-3-PL RUGBY JOUER,phrases_simples,IX-3-PL RUGBY JOUER,True
+Je ne veux pas sortir ce soir.,IX-1 SORTIR VOULOIR SOIR PAS,negations,SOIR IX-1 VOULOIR SORTIR PAS,False
+Elle ne lit plus de livres.,IX-3 LIVRE LIRE PLUS,negations,IX-3 LIVRE+ LIRE PLUS,False
+Nous n'avons plus de pain.,IX-1-PL PAIN AVOIR PLUS,negations,IX-1-PL PAIN AVOIR PLUS,True
+Tu ne bois jamais de lait.,IX-2 LAIT BOIRE JAMAIS,negations,JAMAIS TU LAIT BOIRE,False
+Ils ne regardent pas la télévision.,IX-3-PL TÉLÉVISION REGARDER PAS,negations,IX-3-PL TÉLÉVISION REGARDER PAS,True
+Je ne mange pas de viande.,IX-1 VIANDE MANGER PAS,negations,IX-1 VIANDE MANGER PAS,True
+Elle ne va plus à l'école.,IX-3 ÉCOLE ALLER PLUS,negations,IX-3 ÉCOLE ALLER PLUS,True
+Nous ne jouons plus au football.,IX-1-PL FOOTBALL JOUER PLUS,negations,IX-1-PL FOOTBALL JOUER PLUS,True
+Tu ne bois pas d'eau.,IX-2 EAU BOIRE PAS,negations,TU BOIS EAU PAS,False
+Ils ne font plus de sport.,IX-3-PL SPORT FAIRE PLUS,negations,IX-3-PL SPORT FAIRE PLUS,True
+Je ne vois pas mes parents.,IX-1 PARENT Voir PAS,negations,IX-1 POSS-1 PARENT+ VOIR PAS,False
+Elle ne travaille plus dans ce bureau.,IX-3 BUREAU TRAVAIL PLUS,negations,IX-3 BUREAU TRAVAILLER PLUS,False
+Nous ne mangeons plus de poisson.,IX-1-PL POISSON MANGER PLUS,negations,IX-1-PL POISSON MANGER PLUS,True
+Tu ne bois pas de soda.,IX-2 SODA BOIRE PAS,negations,TU SODA BOIRE PAS,False
+Ils ne jouent plus aux échecs.,IX-3-PL ÉCHEC JOUER PLUS,negations,IX-3-PL ÉCHEC+ JOUER PLUS,False
+Je ne bois pas de thé.,IX-1 THÉ BOIRE PAS,negations,IX-1 THÉ BOIRE PAS,True
+Elle ne va plus au cinéma.,IX-3 CINÉMA ALLER PLUS,negations,IX-3 CINÉMA ALLER PLUS,True
+Nous ne mangeons plus de fruits.,IX-1-PL FRUIT MANGER PLUS,negations,IX-1-PL FRUIT+ MANGER PLUS,False
+Tu ne bois pas de jus.,IX-2 JUS BOIRE PAS,negations,TU JUS BOIRE PAS,False
+Ils ne jouent plus aux jeux vidéo.,IX-3-PL JEUX VIDÉO JOUER PLUS,negations,IX-3-PL VIDÉO JEU+ JOUER PLUS,False
+Je ne bois pas de café.,IX-1 CAFÉ BOIRE PAS,negations,IX-1 CAFÉ BOIRE PAS,True
+Elle ne va plus à la plage.,IX-3 PLAGE ALLER PLUS,negations,IX-3 PLAGE ALLER PLUS,True
+Nous ne mangeons plus de légumes.,IX-1-PL LÉGUME MANGER PLUS,negations,IX-1-PL LÉGUME+ MANGER PLUS,False
+Tu ne bois pas de chocolat chaud.,IX-2 CHOCOLAT CHAUD BOIRE PAS,negations,TU CHOCOLAT CHAUD BOIRE PAS,False
+Ils ne jouent plus aux cartes.,IX-3-PL CARTE JOUER PLUS,negations,IX-3-PL CARTE+ JOUER PLUS,False
+Je ne bois pas de limonade.,IX-1 LIMONADE BOIRE PAS,negations,IX-1 LIMONADE BOIRE PAS,True
+Elle ne va plus à la piscine.,IX-3 PISCINE ALLER PLUS,negations,IX-3 PISCINE ALLER PLUS,True
+Nous ne mangeons plus de riz.,IX-1-PL RIZ MANGER PLUS,negations,IX-1-PL RIZ MANGER PLUS,True
+Tu ne bois pas de vin.,IX-2 VIN BOIRE PAS,negations,TU VIN BOIRE PAS,False
+Ils ne jouent plus aux jeux de société.,IX-3-PL JEUX SOCIÉTÉ JOUER PLUS,negations,IX-3-PL SOCIÉTÉ JEU+ JOUER PLUS,False
+Je ne bois pas de bière.,IX-1 BIÈRE BOIRE PAS,negations,IX-1 BIÈRE BOIRE PAS,True
+Elle ne va plus au parc.,IX-3 PARC ALLER PLUS,negations,IX-3 PARC ALLER PLUS,True
+Nous ne mangeons plus de pâtes.,IX-1-PL PÂTE MANGER PLUS,negations,IX-1-PL PÂTE+ MANGER PLUS,False
+Tu ne bois pas de jus d'orange.,IX-2 JUS ORANGE BOIRE PAS,negations,TU ORANGE JUS BOIRE PAS,False
+Ils ne jouent plus aux jeux de rôle.,IX-3-PL JEUX RÔLE JOUER PLUS,negations,IX-3-PL RÔLE JEU+ JOUER PLUS,False
+Je ne bois pas de soda.,IX-1 SODA BOIRE PAS,negations,IX-1 BOIS+ SODA PAS,False
+Elle ne va plus à la montagne.,IX-3 MONTAGNE ALLER PLUS,negations,IX-3 MONTAGNE ALLER PLUS,True
+Nous ne mangeons plus de soupe.,IX-1-PL SOUPE MANGER PLUS,negations,IX-1-PL SOUPE MANGER PLUS,True
+Tu ne bois pas de thé vert.,IX-2 THÉ VERT BOIRE PAS,negations,TU THÉ VERT BOIRE PAS,False
+Je ne bois pas de lait.,IX-1 LAIT BOIRE PAS,negations,IX-1 LAIT BOIRE PAS,True
+Elle ne va plus à la campagne.,IX-3 CAMPAGNE ALLER PLUS,negations,IX-3 CAMPAGNE ALLER PLUS,True
+Nous ne mangeons plus de pain.,IX-1-PL PAIN MANGER PLUS,negations,IX-1-PL PAIN MANGER PLUS,True
+Tu ne bois pas de jus de pomme.,IX-2 JUS POMME BOIRE PAS,negations,TU POMME JUS BOIRE PAS,False
+Ils ne jouent plus aux jeux de cartes.,IX-3-PL JEUX CARTE JOUER PLUS,negations,IX-3-PL CARTE+ JEU+ JOUER PLUS,False
+Je ne bois pas de jus de raisin.,IX-1 JUS RAISIN BOIRE PAS,negations,IX-1 RAISIN JUS BOIRE PAS,False
+Elle ne va plus à la mer.,IX-3 MER ALLER PLUS,negations,IX-3 MER ALLER PLUS,True
+Nous ne mangeons plus de viande.,IX-1-PL VIANDE MANGER PLUS,negations,IX-1-PL VIANDE MANGER PLUS,True
+Qui est là ?,IX-3 QUI,questions,LÀ ÊTRE ?,False
+Qu'est-ce que tu fais ?,IX-2 FAIRE QUOI,questions,IX-2 FAIRE ?,False
+Où vas-tu ?,IX-2 ALLER OÙ,questions,- TU ALLER OÙ,False
+Quand est-ce que tu viens ?,IX-2 VENIR QUAND,questions,IX-2 VIEN QUAND,False
+Comment ça va ?,ALLER COMMENT,questions,IX-3 ALLER COMMENT,False
+Pourquoi tu es triste ?,IX-2 TRISTE POURQUOI,questions,IX-2 TRISTE POURQUOI,True
+Combien de frères et sœurs as-tu ?,FRÈRE SOEUR COMBIEN IX-2 AVOIR,questions,FRÈRE+ SŒUR+ TU A COMBIEN,False
+Qui est ton professeur ?,PROFESSEUR IX-2 QUI,questions,POSS-2 PROFESSEUR ?,False
+Qu'est-ce que tu manges ?,IX-2 MANGER QUOI,questions,MANGER TAIRE ?,False
+Où est la bibliothèque ?,BIBLIOTHÈQUE OÙ,questions,BIBLIOTHÈQUE OÙ,True
+Quand est ton anniversaire ?,ANNIVERSAIRE IX-2 QUAND,questions,POSS-2 ANNIVERSAIRE QUAND,False
+Comment tu vas à l'école ?,IX-2 ALLER ÉCOLE COMMENT,questions,IX-2 ÉCOLE ALLER COMMENT,False
+Pourquoi tu ne viens pas ?,IX-2 VENIR POURQUOI NON,questions,IX-2 VENIR PAS POURQUOI,False
+Combien de temps tu restes ?,TEMPS COMBIEN IX-2 RESTER,questions,TEMPS+ TU RESTER COMBIEN,False
+Qui est ton ami ?,AMI IX-2 QUI,questions,POSS-2 AMI ?,False
+Qu'est-ce que tu bois ?,IX-2 BOIRE QUOI,questions,IX-2 BOIS ?,False
+Où est la pharmacie ?,PHARMACIE OÙ,questions,PHARMACIE OÙ,True
+Quand tu pars ?,IX-2 PARTIR QUAND,questions,IX-2 PAR QUAND,False
+Comment tu te sens ?,IX-2 SENTIR COMMENT,questions,IX-2 IX-2 SENTIR COMMENT,False
+Pourquoi tu es en retard ?,IX-2 RETARD POURQUOI,questions,TAIRE RETARD POURQUOI,False
+Combien de pommes tu veux ?,POMME COMBIEN IX-2 VOULOIR,questions,POMME+ TU VOULOIR COMBIEN,False
+Qui est ton voisin ?,VOISIN IX-2 QUI,questions,POSS-2 VOISIN ?,False
+Qu'est-ce que tu écoutes ?,IX-2 ÉCOUTER QUOI,questions,TAIRE ÉCOUTE+ ?,False
+Où est la poste ?,POSTE OÙ,questions,POSTE OÙ,True
+Quand tu arrives ?,IX-2 ARRIVER QUAND,questions,IX-2 ARRIVER QUAND,True
+Comment tu t'appelles ?,IX-2 APPELER COMMENT,questions,TU IX-2 APPELER COMMENT,False
+Pourquoi tu ris ?,IX-2 RIRE POURQUOI,questions,IX-2 RIRE POURQUOI,True
+Combien de livres tu as ?,LIVRE COMBIEN IX-2 AVOIR,questions,IX-2 LIVRE+ AVOIR COMBIEN,False
+Qui est ton frère ?,FRÈRE IX-2 QUI,questions,POSS-2 FRÈRE ?,False
+Qu'est-ce que tu regardes ?,IX-2 REGARDER QUOI,questions,IX-2 REGARDE ?,False
+Où est la gare ?,GARE OÙ,questions,GARE OÙ,True
+Quand tu rentres ?,IX-2 RENTRER QUAND,questions,IX-2 RENTRER QUAND,True
+Comment tu vas ?,IX-2 ALLER COMMENT,questions,IX-2 ALLER COMMENT,True
+Pourquoi tu cries ?,IX-2 CRIER POURQUOI,questions,CRIER TAIRE POURQUOI,False
+Combien de frères tu as ?,FRÈRE COMBIEN IX-2 AVOIR,questions,IX-2 FRÈRE+ AVOIR COMBIEN,False
+Qui est ton père ?,PÈRE IX-2 QUI,questions,POSS-2 PÈRE ?,False
+Qu'est-ce que tu écris ?,IX-2 ÉCRIRE QUOI,questions,IX-2 ÉCRIRE ?,False
+Où est l'hôpital ?,HÔPITAL OÙ,questions,HÔPITAL OÙ,True
+Quand tu manges ?,IX-2 MANGER QUAND,questions,IX-2 MANGER QUAND,True
+Comment tu travailles ?,IX-2 TRAVAILLER COMMENT,questions,IX-2 TRAVAILLER COMMENT,True
+Pourquoi tu pleures ?,IX-2 PLEURER POURQUOI,questions,IX-2 PLEURE+ POURQUOI,False
+Combien de sœurs tu as ?,SOEUR COMBIEN IX-2 AVOIR,questions,SŒUR+ IX-2 AVOIR COMBIEN,False
+Qui est ta mère ?,MÈRE IX-2 QUI,questions,POSS-2 MÈRE ?,False
+Qu'est-ce que tu dessines ?,IX-2 DESSINER QUOI,questions,IX-2 DESSINE ?,False
+Où est le cinéma ?,CINÉMA OÙ,questions,CINÉMA OÙ,True
+Quand tu dors ?,IX-2 DORMIR QUAND,questions,IX-2 DORMIR QUAND,True
+Comment tu étudies ?,IX-2 ÉTUDIER COMMENT,questions,IX-2 ÉTUDIER COMMENT,True
+Pourquoi tu es malade ?,IX-2 MALADE POURQUOI,questions,IX-2 MALADE POURQUOI,True
+Combien de pommes tu as ?,POMME COMBIEN IX-2 AVOIR,questions,TU POMME+ AVOIR COMBIEN,False
+"Hier, j'ai vu un film.",HIER IX-1 FILM VOIR,temps,HIER IX-1 FILM VOIR,True
+"Demain, tu iras à l'école.",DEMAIN IX-2 ÉCOLE ALLER,temps,DEMAIN | TU ÉCOLE ALLER,False
+"Maintenant, il travaille.",MAINTENANT IX-3 TRAVAILLER,temps,MAINTENANT IX-3 TRAVAILLER,True
+"La semaine prochaine, nous irons à la plage.",SEMAINE-PROCHAINE IX-1-PL PLAGE ALLER,temps,SEMAINE IX-1-PL PLAGE PROCHAIN ALLER,False
+"L'année dernière, elle a voyagé.",ANNÉE-DERNIÈRE IX-3 VOYAGER,temps,ANNÉE IX-3 DERNIER VOYAGER,False
+"Ce matin, j'ai pris mon petit-déjeuner.",MATIN IX-1 PETIT-DÉJEUNER PRENDRE,temps,MATIN IX-1 POSS-1 PETIT-DÉJEUNER PRENDRE,False
+"Ce soir, tu regarderas la télévision.",SOIR IX-2 TÉLÉVISION REGARDER,temps,SOIR IX-2 TÉLÉVISION REGARDER,True
+"Plus tard, ils joueront au football.",PLUS-TARD IX-3-PL FOOTBALL JOUER,temps,TARD IX-3-PL FOOTBALL JOUER PLUS,False
+"La semaine dernière, nous avons fait du shopping.",SEMAINE-DERNIÈRE IX-1-PL SHOPPING FAIRE,temps,SEMAINE IX-1-PL SHOPPING DERNIER FAIRE,False
+"Demain matin, elle ira à la bibliothèque.",DEMAIN-MATIN IX-3 BIBLIOTHÈQUE ALLER,temps,DEMAIN MATIN IX-3 BIBLIOTHÈQUE ALLER,False
+"Hier soir, j'ai lu un livre.",HIER-SOIR IX-1 LIVRE LIRE,temps,HIER SOIR IX-1 AVOIR LIVRE LIRE,False
+"La semaine prochaine, tu iras au parc.",SEMAINE-PROCHAINE IX-2 PARC ALLER,temps,SEMAINE TU PARC PROCHAIN ALLER,False
+"L'année prochaine, ils iront à l'université.",ANNÉE-PROCHAINE IX-3-PL UNIVERSITÉ ALLER,temps,ANNÉE IX-3-PL UNIVERSITÉ PROCHAIN ALLER,False
+"Ce matin, tu as pris le bus.",MATIN IX-2 BUS PRENDRE,temps,MATIN IX-2 BUS PRENDRE,True
+"Ce soir, nous regarderons un film.",SOIR IX-1-PL FILM REGARDER,temps,SOIR IX-1-PL FILM REGARDER,True
+"Plus tard, elle jouera avec ses amis.",PLUS-TARD IX-3 AMIS JOUER,temps,TARD IX-3 POSS-3 AMI+ JOUER PLUS,False
+"La semaine dernière, vous avez fait du sport.",SEMAINE-DERNIÈRE IX-2-PL SPORT FAIRE,temps,SEMAINE IX-2-PL SPORT DERNIER FAIRE,False
+"Demain matin, ils iront à l'école.",DEMAIN-MATIN IX-3-PL ÉCOLE ALLER,temps,DEMAIN MATIN IX-3-PL ÉCOLE ALLER,False
+"Hier soir, tu as mangé une pizza.",HIER-SOIR IX-2 PIZZA MANGER,temps,HIER SOIR IX-2 PIZZA MANGER,False
+"La semaine prochaine, nous irons au cinéma.",SEMAINE-PROCHAINE IX-1-PL CINÉMA ALLER,temps,SEMAINE IX-1-PL CINÉMA PROCHAIN ALLER,False
+"L'année dernière, vous avez voyagé.",ANNÉE-DERNIÈRE IX-2-PL VOYAGER,temps,ANNÉE IX-2-PL DERNIER VOYAGER,False
+"Ce matin, elle a pris son petit-déjeuner.",MATIN IX-3 PETIT-DÉJEUNER PRENDRE,temps,MATIN IX-3 POSS-3 PETIT-DÉJEUNER PRENDRE,False
+Je vais à la bibliothèque.,BIBLIOTHÈQUE IX-1 ALLER,lieux,IX-1 BIBLIOTHÈQUE ALLER,False
+Elle est à la maison.,MAISON IX-3 ÊTRE,lieux,IX-3 MAISON,False
+Nous allons au parc.,PARC IX-1-PL ALLER,lieux,IX-1-PL PARC ALLER,False
+Il travaille à l'école.,ÉCOLE IX-3 TRAVAILLER,lieux,IX-3 ÉCOLE TRAVAILLER,False
+Tu vas au cinéma.,CINÉMA IX-2 ALLER,lieux,TU CINÉMA ALLER,False
+Ils sont à la plage.,PLAGE IX-3-PL ÊTRE,lieux,IX-3-PL PLAGE,False
+Je suis à l'université.,UNIVERSITÉ IX-1 ÊTRE,lieux,IX-1 UNIVERSITÉ,False
+Nous allons à la gare.,GARE IX-1-PL ALLER,lieux,IX-1-PL GARE ALLER,False
+Elle est à l'hôpital.,HÔPITAL IX-3 ÊTRE,lieux,IX-3 HÔPITAL,False
+Tu vas à la poste.,POSTE IX-2 ALLER,lieux,TU POSTE ALLER,False
+Ils sont au stade.,STADE IX-3-PL ÊTRE,lieux,IX-3-PL STADE,False
+Je suis au travail.,TRAVAIL IX-1 ÊTRE,lieux,IX-1 TRAVAIL,False
+Nous allons à la piscine.,PISCINE IX-1-PL ALLER,lieux,IX-1-PL PISCINE ALLER,False
+Elle est au musée.,MUSÉE IX-3 ÊTRE,lieux,IX-3 MUSÉE,False
+Tu vas à la bibliothèque.,BIBLIOTHÈQUE IX-2 ALLER,lieux,TU BIBLIOTHÈQUE ALLER,False
+Ils sont au parc.,PARC IX-3-PL ÊTRE,lieux,IX-3-PL PARC,False
+Je suis à l'école.,ÉCOLE IX-1 ÊTRE,lieux,IX-1 ÉCOLE,False
+Nous allons au cinéma.,CINÉMA IX-1-PL ALLER,lieux,IX-1-PL CINÉMA ALLER,False
+Elle est à la plage.,PLAGE IX-3 ÊTRE,lieux,IX-3 PLAGE,False
+Tu vas à l'université.,UNIVERSITÉ IX-2 ALLER,lieux,TU UNIVERSITÉ ALLER,False
+Ils sont à la gare.,GARE IX-3-PL ÊTRE,lieux,IX-3-PL GARE,False
+Je suis à l'hôpital.,HÔPITAL IX-1 ÊTRE,lieux,IX-1 HÔPITAL,False
+Nous allons à la poste.,POSTE IX-1-PL ALLER,lieux,IX-1-PL POSTE ALLER,False
+Elle est au stade.,STADE IX-3 ÊTRE,lieux,IX-3 STADE,False
+Tu vas au travail.,TRAVAIL IX-2 ALLER,lieux,TU TRAVAIL ALLER,False
+Ils sont à la piscine.,PISCINE IX-3-PL ÊTRE,lieux,IX-3-PL PISCINE,False
+Je suis au musée.,MUSÉE IX-1 ÊTRE,lieux,IX-1 MUSÉE,False
+Nous allons à la bibliothèque.,BIBLIOTHÈQUE IX-1-PL ALLER,lieux,IX-1-PL BIBLIOTHÈQUE ALLER,False
+Elle est au parc.,PARC IX-3 ÊTRE,lieux,IX-3 PARC,False
+Tu vas à l'école.,ÉCOLE IX-2 ALLER,lieux,TU ÉCOLE ALLER,False
+Ils sont au cinéma.,CINÉMA IX-3-PL ÊTRE,lieux,IX-3-PL CINÉMA,False
+Je suis à la plage.,PLAGE IX-1 ÊTRE,lieux,IX-1 PLAGE,False
+Nous allons à l'université.,UNIVERSITÉ IX-1-PL ALLER,lieux,IX-1-PL UNIVERSITÉ ALLER,False
+Elle est à la gare.,GARE IX-3 ÊTRE,lieux,IX-3 GARE,False
+Tu vas à l'hôpital.,HÔPITAL IX-2 ALLER,lieux,TU HÔPITAL ALLER,False
+Ils sont à la poste.,POSTE IX-3-PL ÊTRE,lieux,IX-3-PL POSTE,False
+Je suis au stade.,STADE IX-1 ÊTRE,lieux,IX-1 STADE,False
+Nous allons au travail.,TRAVAIL IX-1-PL ALLER,lieux,IX-1-PL TRAVAIL ALLER,False
+Elle est à la piscine.,PISCINE IX-3 ÊTRE,lieux,IX-3 PISCINE,False
+Tu vas au musée.,MUSÉE IX-2 ALLER,lieux,TU MUSÉE ALLER,False
+Ils sont à la bibliothèque.,BIBLIOTHÈQUE IX-3-PL ÊTRE,lieux,IX-3-PL BIBLIOTHÈQUE,False
+Je suis au parc.,PARC IX-1 ÊTRE,lieux,IX-1 PARC,False
+Elle est au cinéma.,CINÉMA IX-3 ÊTRE,lieux,IX-3 CINÉMA,False
+Tu vas à la plage.,PLAGE IX-2 ALLER,lieux,TU PLAGE ALLER,False
+Ils sont à l'université.,UNIVERSITÉ IX-3-PL ÊTRE,lieux,IX-3-PL UNIVERSITÉ,False
+Je suis à la gare.,GARE IX-1 ÊTRE,lieux,IX-1 GARE,False
+Nous allons à l'hôpital.,HÔPITAL IX-1-PL ALLER,lieux,IX-1-PL HÔPITAL ALLER,False
+Elle est à la poste.,POSTE IX-3 ÊTRE,lieux,IX-3 POSTE,False
+Tu vas au stade.,STADE IX-2 ALLER,lieux,TU STADE ALLER,False
+Ils sont au travail.,TRAVAIL IX-3-PL ÊTRE,lieux,IX-3-PL TRAVAIL,False
+Ma voiture est rouge.,POSS-1 VOITURE ROUGE,possessifs,VOITURE POSS-1 ROUGE,False
+Ton sac est lourd.,POSS-2 SAC LOURD,possessifs,SAC POSS-2 LOURD,False
+Sa sœur est médecin.,POSS-3 SŒUR MÉDECIN,possessifs,SŒUR POSS-3 MÉDECIN,False
+Notre chien aboie beaucoup.,POSS-1-PL CHIEN ABOYER BEACOUP,possessifs,CHIEN POSS-1-PL BEAUCOUP ABOYER,False
+Votre maison est belle.,POSS-2-PL MAISON BELLE,possessifs,MAISON POSS-2-PL BEL,False
+Leur voiture est rapide.,POSS-3-PL VOITURE RAPIDE,possessifs,VOITURE POSS-3-PL RAPIDE,False
+Ma mère fait du pain.,POSS-1 MÈRE PAIN FAIRE,possessifs,MÈRE POSS-1 PAIN FAIRE,False
+Ton frère joue au foot.,POSS-2 FRÈRE FOOT JOUER,possessifs,FRÈRE POSS-2 FOOT JOUER,False
+Son ordinateur est neuf.,POSS-3 ORDINATEUR NEUF,possessifs,ORDINATEUR POSS-3 NEUF,False
+Notre prof est sympa.,POSS-1-PL PROF SYMPA,possessifs,PROF POSS-1-PL SYMPA,False
+Votre fils est grand.,POSS-2-PL FILS GRAND,possessifs,FILS POSS-2-PL GRAND,False
+Leur fille est intelligente.,POSS-3-PL FILLE INTELLIGENTE,possessifs,FILLE POSS-3-PL INTELLIGENT,False
+Ma sœur aime les pommes.,POSS-1 SŒUR POMME AIMER,possessifs,SŒUR POSS-1 POMME+ AIMER,False
+Ton père travaille beaucoup.,POSS-2 PÈRE TRAVAIL BEACOUP,possessifs,PÈRE POSS-2 BEAUCOUP TRAVAILLER,False
+Son chat est noir.,POSS-3 CHAT NOIR,possessifs,CHAT POSS-3 NOIR,False
+Notre maison est spacieuse.,POSS-1-PL MAISON SPACIEUX,possessifs,MAISON POSS-1-PL SPACIEUX,False
+Votre chien est mignon.,POSS-2-PL CHIEN MIGNON,possessifs,CHIEN POSS-2-PL MIGNON,False
+Leur voiture est propre.,POSS-3-PL VOITURE PROPRE,possessifs,VOITURE POSS-3-PL PROPRE,False
+Ma tante habite en ville.,POSS-1 TANTE VILLE HABITER,possessifs,POSS-1 TANTE VILLE HABITER,True
+Ton oncle est médecin.,POSS-2 ONCLE MÉDECIN,possessifs,ONCLE POSS-2 MÉDECIN,False
+Son cousin est sympa.,POSS-3 COUSIN SYMPA,possessifs,COUSIN POSS-3 SYMPA,False
+Notre voiture est grande.,POSS-1-PL VOITURE GRAND,possessifs,VOITURE POSS-1-PL GRAND,False
+Votre fils est fort.,POSS-2-PL FILS FORT,possessifs,FILS POSS-2-PL FORT,False
+Leur fille est gentille.,POSS-3-PL FILLE GENTIL,possessifs,FILLE POSS-3-PL GENTILLER,False
+Ma mère fait du vélo.,POSS-1 MÈRE VÉLO FAIRE,possessifs,MÈRE POSS-1 VÉLO FAIRE,False
+Ton frère joue au tennis.,POSS-2 FRÈRE TENNIS JOUER,possessifs,FRÈRE POSS-2 TENNIS JOUER,False
+Son ordinateur est rapide.,POSS-3 ORDINATEUR RAPIDE,possessifs,ORDINATEUR POSS-3 RAPIDE,False
+Notre prof est patient.,POSS-1-PL PROF PATIENT,possessifs,PROF POSS-1-PL PATIENT,False
+Votre fils est intelligent.,POSS-2-PL FILS INTELLIGENT,possessifs,FILS POSS-2-PL INTELLIGENT,False
+Leur fille est belle.,POSS-3-PL FILLE BELLE,possessifs,FILLE POSS-3-PL BEL,False
+Ma sœur aime les fraises.,POSS-1 SŒUR FRAISE AIMER,possessifs,SŒUR POSS-1 FRAISE+ AIMER,False
+Ton père travaille tard.,POSS-2 PÈRE TRAVAIL TARD,possessifs,TARD PÈRE POSS-2 TRAVAILLER,False
+Son chat est blanc.,POSS-3 CHAT BLANC,possessifs,CHAT POSS-3 BLANC,False
+Notre maison est belle.,POSS-1-PL MAISON BELLE,possessifs,MAISON POSS-1-PL BEL,False
+Votre chien est grand.,POSS-2-PL CHIEN GRAND,possessifs,CHIEN POSS-2-PL GRAND,False
+Leur voiture est vieille.,POSS-3-PL VOITURE VIEIL,possessifs,VOITURE POSS-3-PL VIEUX,False
+Ma tante habite à la campagne.,POSS-1 TANTE CAMPAGNE HABITER,possessifs,POSS-1 TANTE CAMPAGNE HABITER,True
+Ton oncle est gentil.,POSS-2 ONCLE GENTIL,possessifs,ONCLE POSS-2 GENTIL,False
+Son cousin est fort.,POSS-3 COUSIN FORT,possessifs,COUSIN POSS-3 FORT,False
+Notre voiture est propre.,POSS-1-PL VOITURE PROPRE,possessifs,VOITURE POSS-1-PL PROPRE,False
+Votre fils est mignon.,POSS-2-PL FILS MIGNON,possessifs,FILS POSS-2-PL MIGNON,False
+Ma mère fait du sport.,POSS-1 MÈRE SPORT FAIRE,possessifs,MÈRE POSS-1 SPORT FAIRE,False
+Ton frère joue au basket.,POSS-2 FRÈRE BASKET JOUER,possessifs,FRÈRE POSS-2 BASKET JOUER,False
+Son ordinateur est lent.,POSS-3 ORDINATEUR LENT,possessifs,ORDINATEUR POSS-3 LENT,False
+Notre prof est gentil.,POSS-1-PL PROF GENTIL,possessifs,PROF POSS-1-PL GENTIL,False
+Les oiseaux chantent dans les arbres.,OISEAU+ ARBRE+ CHANTER,pluriels,OISEAU+ ARBRE+ CHANTER,True
+Les étudiants étudient à la bibliothèque.,ETUDIANT+ BIBLIOTHEQUE ETUDIER,pluriels,ÉTUDIANT+ BIBLIOTHÈQUE ÉTUDIER,False
+Les voitures roulent sur la route.,VOITURE+ ROUTE ROULER,pluriels,VOITURE+ ROUTE ROULER,True
+Les fleurs sont belles dans le jardin.,FLEUR+ JARDIN BELLE,pluriels,FLEUR+ JARDIN BEL,False
+Les enfants mangent des bonbons.,ENFANT+ BONBON+ MANGER,pluriels,ENFANT+ BONBON+ MANGER,True
+Les livres sont sur la table.,LIVRE+ TABLE,pluriels,LIVRE+ TABLE,True
+Les chats dorment sur le canapé.,CHAT+ CANAPE DORMIR,pluriels,CHAT+ CANAPÉ DORMIR,False
+Les musiciens jouent de la musique.,MUSICIEN+ MUSIQUE JOUER,pluriels,MUSICIEN+ MUSIQUE JOUER,True
+Les arbres sont verts.,ARBRE+ VERT,pluriels,ARBRE+ VERT+,False
+Les enfants jouent avec des jouets.,ENFANT+ JOUET+ JOUER,pluriels,ENFANT+ JOUET+ JOUER,True
+Les voitures sont garées dans le parking.,VOITURE+ PARKING GARER,pluriels,VOITURE+ PARKING GARER,True
+Les oiseaux volent dans le ciel.,OISEAU+ CIEL VOLER,pluriels,OISEAU+ CIEL VOLER,True
+Les étudiants préparent leurs examens.,ETUDIANT+ EXAMEN+ PREPARER,pluriels,ÉTUDIANT+ POSS-3-PL EXAMEN+ PRÉPARER,False
+Les fleurs sont dans un vase.,FLEUR+ VASE,pluriels,FLEUR+ VASE,True
+Les chats boivent du lait.,CHAT+ LAIT BOIRE,pluriels,CHAT+ LAIT BOIRE,True
+Les musiciens jouent de la guitare.,MUSICIEN+ GUITARE JOUER,pluriels,MUSICIEN+ GUITARE JOUER,True
+Les livres sont intéressants.,LIVRE+ INTERESSANT,pluriels,LIVRE+ INTÉRESSANT,False
+Les enfants mangent des fruits.,ENFANT+ FRUIT+ MANGER,pluriels,ENFANT+ FRUIT+ MANGER,True
+Les voitures sont rapides.,VOITURE+ RAPIDE,pluriels,VOITURE+ RAPIDER,False
+Les oiseaux sont colorés.,OISEAU+ COLORE,pluriels,OISEAU+ COLORÉ,False
+Les étudiants étudient pour leurs examens.,ETUDIANT+ EXAMEN+ ETUDIER,pluriels,ÉTUDIANT+ POSS-3-PL EXAMEN+ ÉTUDIER,False
+Les fleurs sont dans le jardin.,FLEUR+ JARDIN,pluriels,FLEUR+ JARDIN,True
+Les chats sont mignons.,CHAT+ MIGNON,pluriels,CHAT+ MIGNON,True
+Les musiciens jouent du piano.,MUSICIEN+ PIANO JOUER,pluriels,MUSICIEN+ PIANO JOUER,True
+Les arbres sont grands.,ARBRE+ GRAND,pluriels,ARBRE+ GRAND,True
+Les enfants jouent au parc.,ENFANT+ PARC JOUER,pluriels,ENFANT+ PARC JOUER,True
+Les voitures sont neuves.,VOITURE+ NEUF,pluriels,VOITURE+ NEUF,True
+Les oiseaux chantent le matin.,OISEAU+ MATIN CHANTER,pluriels,MATIN OISEAU+ CHANTER,False
+Les étudiants ont des cours.,ETUDIANT+ COURS+ AVOIR,pluriels,ÉTUDIANT+ COURS+,False
+Les fleurs sont jolies.,FLEUR+ JOLIE,pluriels,FLEUR+ JOLIER,False
+Les chats sont sur le canapé.,CHAT+ CANAPE,pluriels,CHAT+ CANAPÉ,False
+Les musiciens jouent de la batterie.,MUSICIEN+ BATTERIE JOUER,pluriels,MUSICIEN+ BATTERIE JOUER,True
+Les livres sont sur l'étagère.,LIVRE+ ETAGERE,pluriels,LIVRE+ ÉTAGÈRE,False
+Les enfants mangent des sandwichs.,ENFANT+ SANDWICH+ MANGER,pluriels,ENFANT+ SANDWICH MANGER,False
+Les voitures sont rouges.,VOITURE+ ROUGE,pluriels,VOITURE+ ROUGE,True
+Les oiseaux volent haut.,OISEAU+ HAUT VOLER,pluriels,OISEAU+ HAUT VOLER,True
+Les étudiants ont des devoirs.,ETUDIANT+ DEVOIR+ AVOIR,pluriels,ÉTUDIANT+ DEVOIR+,False
+Les fleurs sont dans un pot.,FLEUR+ POT,pluriels,FLEUR+ POT,True
+Les chats boivent de l'eau.,CHAT+ EAU BOIRE,pluriels,CHAT+ EAU BOIRE,True
+Les musiciens jouent de la flûte.,MUSICIEN+ FLUTE JOUER,pluriels,MUSICIEN+ FLÛTE JOUER,False
+Les arbres sont dans la forêt.,ARBRE+ FORET,pluriels,ARBRE+ FORÊT,False
+Les enfants jouent avec des ballons.,ENFANT+ BALLON+ JOUER,pluriels,ENFANT+ BALLON+ JOUER,True
+Les voitures sont dans le garage.,VOITURE+ GARAGE,pluriels,VOITURE+ GARAGE,True
+Les oiseaux sont dans le ciel.,OISEAU+ CIEL,pluriels,OISEAU+ CIEL,True
+Les étudiants ont des questions.,ETUDIANT+ QUESTION+ AVOIR,pluriels,ÉTUDIANT+ QUESTION+ AVOIR,False
+Les fleurs sont dans un bouquet.,FLEUR+ BOUQUET,pluriels,FLEUR+ BOUQUET,True
+Le ciel est bleu aujourd'hui.,CIEL BLEU AUJOURD'HUI,adjectifs,AUJOURD'HUI CIEL BLEU,False
+Le gâteau est délicieux.,GÂTEAU DÉLICIEUX,adjectifs,GÂTEAU DÉLICIEUX,True
+La voiture est rapide.,VOITURE RAPIDE,adjectifs,VOITURE RAPIDE,True
+Le chien est grand et fort.,CHIEN GRAND FORT,adjectifs,CHIEN FORT GRAND,False
+La fleur est rouge et belle.,FLEUR ROUGE BEAU,adjectifs,FLEUR ROUGE BEL,False
+Le sac est lourd.,SAC LOURD,adjectifs,SAC LOURD,True
+La musique est douce.,MUSIQUE DOUX,adjectifs,MUSIQUE DOUCER,False
+Le livre est intéressant.,LIVRE INTÉRESSANT,adjectifs,LIVRE INTÉRESSANT,True
+Le chat est mignon.,CHAT MIGNON,adjectifs,CHAT MIGNON,True
+Le ciel est nuageux.,CIEL NUAGEUX,adjectifs,CIEL NUAGEUX,True
+Le café est chaud.,CAFÉ CHAUD,adjectifs,CAFÉ CHAUD,True
+La maison est propre.,MAISON PROPRE,adjectifs,MAISON PROPRE,True
+Le film est long.,FILM LONG,adjectifs,FILM LONG ÊTRE,False
+La plage est belle.,PLAGE BEAU,adjectifs,PLAGE BEL,False
+Le jardin est vert.,JARDIN VERT,adjectifs,JARDIN VERT,True
+Le temps est mauvais.,TEMPS MAUVAIS,adjectifs,TEMPS MAUVAIS,True
+La soupe est chaude.,SOUPE CHAUD,adjectifs,SOUPE CHAUD,True
+Le ciel est clair.,CIEL CLAIR,adjectifs,CIEL CLAIR,True
+La voiture est vieille.,VOITURE VIEUX,adjectifs,VOITURE VIEUX,True
+Le chat est noir.,CHAT NOIR,adjectifs,CHAT NOIR,True
+La fleur est jaune.,FLEUR JAUNE,adjectifs,FLEUR JAUNE,True
+Le sac est léger.,SAC LÉGER,adjectifs,SAC LÉGER,True
+La musique est forte.,MUSIQUE FORT,adjectifs,MUSIQUE FORT,True
+Le livre est court.,LIVRE COURT,adjectifs,LIVRE COURT,True
+Le chien est petit.,CHIEN PETIT,adjectifs,CHIEN PETIT,True
+La maison est grande.,MAISON GRAND,adjectifs,MAISON GRAND,True
+Le film est court.,FILM COURT,adjectifs,FILM COURT ÊTRE,False
+La plage est vide.,PLAGE VIDE,adjectifs,PLAGE VIDE,True
+Le jardin est sec.,JARDIN SEC,adjectifs,JARDIN SEC,True
+Le temps est beau.,TEMPS BEAU,adjectifs,TEMPS BEAU,True
+La soupe est froide.,SOUPE FROID,adjectifs,SOUPE FROID,True
+Le café est froid.,CAFÉ FROID,adjectifs,CAFÉ FROID,True
+La voiture est neuve.,VOITURE NEUF,adjectifs,VOITURE NEUVER,False
+Le chat est blanc.,CHAT BLANC,adjectifs,CHAT BLANC,True
+La fleur est bleue.,FLEUR BLEU,adjectifs,FLEUR BLEUER,False
+Le sac est vide.,SAC VIDE,adjectifs,SAC VIDE,True
+Le livre est épais.,LIVRE ÉPAIS,adjectifs,LIVRE ÉPAIS,True
+Le chien est gros.,CHIEN GROS,adjectifs,CHIEN GROS,True
+La maison est sale.,MAISON SALE,adjectifs,MAISON SALE,True
+Le film est intéressant.,FILM INTÉRESSANT,adjectifs,FILM INTÉRESSANT,True
+La plage est bondée.,PLAGE BONDÉ,adjectifs,PLAGE BONDER,False
+Le jardin est humide.,JARDIN HUMIDE,adjectifs,JARDIN HUMIDE,True
+Le temps est chaud.,TEMPS CHAUD,adjectifs,TEMPS CHAUD,True
+Le café est fort.,CAFÉ FORT,adjectifs,CAFÉ FORT,True
+Le chat est gris.,CHAT GRIS,adjectifs,CHAT GRIS,True
+La fleur est rose.,FLEUR ROSE,adjectifs,FLEUR ROSE,True
+Le sac est plein.,SAC PLEIN,adjectifs,SAC PLEIN,True
+La musique est calme.,MUSIQUE CALME,adjectifs,MUSIQUE CALME,True
+Je vais au marché pour acheter des fruits et des légumes.,IX-1 MARCHÉ ALLER FRUIT+ LÉGUME+ ACHETER,phrases_complexes,IX-1 LÉGUME+ MARCHÉ FRUIT+ ALLER ACHETER,False
+Tu as fini tes devoirs ou tu veux jouer avec moi ?,IX-2 DEVOIR FINIR OU IX-2 IX-1 JOUER VOULOIR,phrases_complexes,TU IX-2 POSS-2 OU DEVOIR+ IX-1 FINIR VOULOIR JOUER ?,False
+Il pleut donc je prends mon parapluie.,PLUIE DONC IX-3 PARAPLUIE POSS-3 PRENDRE,phrases_complexes,IX-1 IX-3 DONC POSS-1 PARAPLUIE PLEUVOIR PRENDRE,False
+Nous allons au parc si le temps est beau.,IX-1-PL PARC ALLER SI TEMPS BEAU,phrases_complexes,IX-1-PL TEMPS SI PARC BEAU ALLER,False
+Vous avez vu le film hier ou vous allez le voir aujourd'hui ?,IX-2-PL FILM HIER VOIR OU IX-2-PL FILM AUJOURD'HUI VOIR ALLER,phrases_complexes,HIER AUJOURD'HUI IX-2-PL IX-2-PL OU FILM IX-3 VOIR ALLER VOIR ?,False
+Elle a acheté une nouvelle robe parce qu'elle va à une fête.,IX-3 ROBE NOUVEAU ACHETER PARCE QUE IX-3 FÊTE ALLER,phrases_complexes,IX-3 IX-3 PARCE ROBE FÊTE NOUVEAU ACHETER ALLER,False
+On peut aller à la plage si tu veux.,IX-1-PL PLAGE ALLER SI IX-2 VOULOIR,phrases_complexes,IX-1-PL IX-2 SI PLAGE POUVOIR ALLER VOULOIR,False
+Ils ont mangé des pizzas et ils ont bu des sodas.,IX-3-PL PIZZA+ MANGER | IX-3-PL SODA+ BOIRE,phrases_complexes,IX-3-PL IX-3-PL PIZZA+ SODA+ MANGER BOIRE,False
+Je ne sais pas où est mon sac.,IX-1 SAVOIR NON OÙ SAC POSS-1 ÊTRE,phrases_complexes,IX-1 POSS-1 SAC SAVOIR PAS ?,False
+Tu as vu mon frère hier ?,IX-2 HIER FRÈRE POSS-1 VOIR,phrases_complexes,HIER TU POSS-1 FRÈRE VOIR ?,False
+Il a dit qu'il viendrait demain.,IX-3 DIRE QU'IL DEMAIN VENIR,phrases_complexes,DEMAIN IX-3 IX-3 DIRE VENIR,False
+Nous avons fini nos études et maintenant nous cherchons du travail.,IX-1-PL ÉTUDE FINIR MAINTENANT TRAVAIL CHERCHER,phrases_complexes,MAINTENANT IX-1-PL IX-1-PL POSS-1-PL ÉTUDE+ TRAVAIL FINIR CHERCHER,False
+Vous avez besoin d'aide ou vous pouvez vous débrouiller seul ?,IX-2-PL AIDE BESOIN OU IX-2-PL SEUL DÉBROUILLER POUVOIR,phrases_complexes,IX-2-PL OU BESOIN AIDE IX-2-PL IX-2-PL SEUL AVOIR POUVOIR DÉBROUILLER ?,False
+Elle a préparé un gâteau pour l'anniversaire de son ami.,IX-3 GÂTEAU PRÉPARER AMI POSS-3 ANNIVERSAIRE POUR,phrases_complexes,IX-3 POSS-3 AMI GÂTEAU ANNIVERSAIRE PRÉPARER,False
+On a décidé d'aller en vacances cet été.,IX-1-PL DÉCIDER VACANCE CETÉ ALLER,phrases_complexes,IX-1-PL VACANCE+ ÉTÉ DÉCIDER ALLER,False
+Ils ont joué au football et ils ont gagné le match.,IX-3-PL FOOTBALL JOUER | IX-3-PL MATCH GAGNER,phrases_complexes,IX-3-PL IX-3-PL FOOTBALL MATCH JOUER GAGNER,False
+Je ne comprends pas ce que tu dis.,IX-1 COMPRENDRE NON CE QUE IX-2 DIRE,phrases_complexes,IX-1 TAIRE DIRE IX-3 COMPRENDRE PAS ?,False
+Tu as vu le nouveau film de ton acteur préféré ?,IX-2 FILM NOUVEAU ACTEUR PRÉFÉRÉ POSS-2 VOIR,phrases_complexes,TU POSS-2 ACTEUR FILM NOUVEAU PRÉFÉRER VOIR ?,False
+Il a dit qu'il avait faim et il a mangé un sandwich.,IX-3 DIRE QU'IL FAIM AVOIR | IX-3 SANDWICH MANGER,phrases_complexes,IX-3 IX-3 IX-3 FAIM SANDWICH DIRE MANGER,False
+Nous avons visité Paris et nous avons aimé la Tour Eiffel.,IX-1-PL PARIS VISITER | IX-1-PL TOUR EIFFEL AIMER,phrases_complexes,PARIS TOUR EIFFEL IX-1-PL IX-1-PL VISITER AIMER,False
+Vous avez fini vos courses ou vous avez encore des choses à acheter ?,IX-2-PL COURSE FINIR OU IX-2-PL CHOSE+ ACHETER ENCORE AVOIR,phrases_complexes,IX-2-PL IX-2-PL POSS-2-PL OU ENCORE COURSE+ CHOSE+ FINIR AVOIR ACHETER ?,False
+Elle a acheté des fleurs pour décorer sa maison.,IX-3 FLEUR+ ACHETER MAISON POSS-3 DÉCORER POUR,phrases_complexes,IX-3 POSS-3 FLEUR+ MAISON ACHETER DÉCORER,False
+On a décidé de regarder un film ce soir.,IX-1-PL FILM REGARDER DÉCIDER CE SOIR,phrases_complexes,SOIR IX-1-PL FILM DÉCIDER REGARDER,False
+Ils ont joué aux échecs et ils ont perdu.,IX-3-PL ÉCHEC JOUER | IX-3-PL PERDRE,phrases_complexes,IX-3-PL IX-3-PL ÉCHEC+ JOUER PERDRE,False
+Je ne sais pas quoi faire ce week-end.,IX-1 SAVOIR NON QUOI FAIRE CE WEEK-END,phrases_complexes,IX-1 WEEK - END SAVOIR FAIRE PAS ?,False
+Tu as vu le dernier épisode de ta série préférée ?,IX-2 SÉRIE PRÉFÉRÉE POSS-2 ÉPISODE DERNIER VOIR,phrases_complexes,TU POSS-2 SÉRIE ÉPISODE DERNIER PRÉFÉRER VOIR ?,False
+Il a dit qu'il avait soif et il a bu de l'eau.,IX-3 DIRE QU'IL SOIF AVOIR | IX-3 EAU BOIRE,phrases_complexes,IX-3 IX-3 IX-3 SOIF EAU DIRE BOIRE,False
+Nous avons visité le musée et nous avons vu des peintures célèbres.,IX-1-PL MUSÉE VISITER | IX-1-PL PEINTURE+ CÉLÈBRE VOIR,phrases_complexes,IX-1-PL IX-1-PL MUSÉE PEINTURE+ CÉLÈBRE VISITER VOIR,False
+Vous avez fini vos devoirs ou vous avez encore des exercices à faire ?,IX-2-PL DEVOIR FINIR OU IX-2-PL EXERCICE+ FAIRE ENCORE AVOIR,phrases_complexes,IX-2-PL IX-2-PL POSS-2-PL OU ENCORE DEVOIR+ EXERCICE+ FINIR AVOIR FAIRE ?,False
+Elle a acheté un livre pour lire pendant ses vacances.,IX-3 LIVRE ACHETER VACANCE POSS-3 PENDANT LIRE POUR,phrases_complexes,IX-3 PENDANT POSS-3 LIVRE VACANCE+ ACHETER LIRE,False
+On a décidé de faire une randonnée en montagne.,IX-1-PL RANDONNÉE FAIRE DÉCIDER MONTAGNE,phrases_complexes,IX-1-PL MONTAGNE RANDONNÉE DÉCIDER FAIRE,False
+Ils ont joué au tennis et ils ont gagné le tournoi.,IX-3-PL TENNIS JOUER | IX-3-PL TOURNOI GAGNER,phrases_complexes,IX-3-PL IX-3-PL TENNIS TOURNOI JOUER GAGNER,False
+Je ne sais pas comment résoudre ce problème.,IX-1 SAVOIR NON COMMENT PROBLÈME CE RÉSOUDRE,phrases_complexes,IX-1 PROBLÈME SAVOIR RÉSOUDRE PAS COMMENT,False
+Tu as vu le nouveau spectacle de ton artiste préféré ?,IX-2 SPECTACLE NOUVEAU ARTISTE PRÉFÉRÉ POSS-2 VOIR,phrases_complexes,TU POSS-2 SPECTACLE ARTISTE NOUVEAU PRÉFÉRER VOIR ?,False
+Il a dit qu'il avait sommeil et il est allé se coucher.,IX-3 DIRE QU'IL SOMMEIL AVOIR | IX-3 COUCHER ALLER,phrases_complexes,IX-3 IX-3 IX-3 IX-3 SOMMEIL DIRE ALLER COUCHER,False
+Nous avons visité le zoo et nous avons vu des animaux exotiques.,IX-1-PL ZOO VISITER | IX-1-PL ANIMAL+ EXOTIQUE VOIR,phrases_complexes,IX-1-PL IX-1-PL ZOO ANIMAL+ EXOTIQUE VISITER VOIR,False
+Vous avez fini vos projets ou vous avez encore du travail à faire ?,IX-2-PL PROJET FINIR OU IX-2-PL TRAVAIL FAIRE ENCORE AVOIR,phrases_complexes,IX-2-PL IX-2-PL POSS-2-PL OU ENCORE PROJET+ TRAVAIL FINIR AVOIR FAIRE ?,False
+Elle a acheté des cadeaux pour ses amis.,IX-3 CADEAU+ ACHETER AMI POSS-3 POUR,phrases_complexes,IX-3 POSS-3 CADEAU+ AMI+ ACHETER,False
+On a décidé de faire une promenade en forêt.,IX-1-PL PROMENADE FAIRE DÉCIDER FORÊT,phrases_complexes,IX-1-PL FORÊT PROMENADE DÉCIDER FAIRE,False
+Ils ont joué au basket et ils ont marqué des points.,IX-3-PL BASKET JOUER | IX-3-PL POINT+ MARQUER,phrases_complexes,IX-3-PL IX-3-PL BASKET POINT+ JOUER MARQUER,False
+Je ne sais pas quand il va arriver.,IX-1 SAVOIR NON QUAND IL ARRIVER,phrases_complexes,IX-1 IX-3 SAVOIR ALLER ARRIVER PAS QUAND,False
+Tu as vu le dernier concert de ton groupe préféré ?,IX-2 CONCERT DERNIER GROUPE PRÉFÉRÉ POSS-2 VOIR,phrases_complexes,TU POSS-2 GROUPE CONCERT DERNIER PRÉFÉRER VOIR ?,False
+Il a dit qu'il avait faim et il a mangé une pizza.,IX-3 DIRE QU'IL FAIM AVOIR | IX-3 PIZZA MANGER,phrases_complexes,IX-3 IX-3 IX-3 FAIM PIZZA DIRE MANGER,False
+Nous avons visité le jardin botanique et nous avons vu des fleurs magnifiques.,IX-1-PL JARDIN BOTANIQUE VISITER | IX-1-PL FLEUR+ MAGNIFIQUE VOIR,phrases_complexes,IX-1-PL IX-1-PL JARDIN FLEUR+ BOTANIQUE MAGNIFIQUE VISITER VOIR,False
+Vous avez fini vos achats ou vous avez encore des choses à acheter ?,IX-2-PL ACHAT FINIR OU IX-2-PL CHOSE+ ACHETER ENCORE AVOIR,phrases_complexes,IX-2-PL IX-2-PL POSS-2-PL OU ENCORE ACHAT+ CHOSE+ FINIR AVOIR ACHETER ?,False
+Elle a acheté des vêtements pour son voyage.,IX-3 VÊTEMENT+ ACHETER VOYAGE POSS-3 POUR,phrases_complexes,IX-3 POSS-3 VOYAGE VÊTEMENT+ ACHETER,False
+On a décidé de faire une excursion en bateau.,IX-1-PL EXCURSION FAIRE DÉCIDER BATEAU,phrases_complexes,IX-1-PL BATEAU EXCURSION DÉCIDER FAIRE,False
+Ils ont joué au golf et ils ont gagné la partie.,IX-3-PL GOLF JOUER | IX-3-PL PARTIE GAGNER,phrases_complexes,IX-3-PL IX-3-PL GOLF PARTIE JOUER GAGNER,False
+Je ne sais pas où il est parti.,IX-1 SAVOIR NON OÙ IL PARTIR,phrases_complexes,IX-1 IX-3 SAVOIR PARTIR PAS ?,False
+Tu as vu le dernier album de ton chanteur préféré ?,IX-2 ALBUM DERNIER CHANTEUR PRÉFÉRÉ POSS-2 VOIR,phrases_complexes,TU POSS-2 CHANTEUR ALBUM DERNIER PRÉFÉRER VOIR ?,False
+Il a dit qu'il avait soif et il a bu un jus de fruit.,IX-3 DIRE QU'IL SOIF AVOIR | IX-3 JUS FRUIT BOIRE,phrases_complexes,IX-3 IX-3 IX-3 SOIF FRUIT JUS DIRE BOIRE,False
+Nous avons visité le musée d'art moderne et nous avons vu des œuvres impressionnantes.,IX-1-PL MUSÉE ART MODERNE VISITER | IX-1-PL ŒUVRE+ IMPRESSIONNANT VOIR,phrases_complexes,IX-1-PL IX-1-PL ART MUSÉE ŒUVRE+ MODERNE IMPRESSIONNANT VISITER VOIR,False
+Vous avez fini vos tâches ou vous avez encore des choses à faire ?,IX-2-PL TÂCHE FINIR OU IX-2-PL CHOSE+ FAIRE ENCORE AVOIR,phrases_complexes,IX-2-PL IX-2-PL POSS-2-PL OU ENCORE TÂCHE+ CHOSE+ FINIR AVOIR FAIRE ?,False
+Je mange une pomme.,IX-1 POMME MANGER,vie_quotidienne,IX-1 POMME MANGER,True
+Tu as faim ?,IX-2 FAIM AVOIR QUESTION,vie_quotidienne,TU FAIM AVOIR ?,False
+Il travaille à l'usine.,IX-3 USINE TRAVAILLER,vie_quotidienne,IX-3 USINE TRAVAILLER,True
+Vous prenez le métro ?,IX-2-PL MÉTRO PRENDRE QUESTION,vie_quotidienne,IX-2-PL MÉTRO PRENDRE ?,False
+Ils regardent la télévision.,IX-3-PL TÉLÉVISION REGARDER,vie_quotidienne,IX-3-PL TÉLÉVISION REGARDER,True
+On se lève tôt le matin.,IX-1-PL MATIN TÔT SE-LEVER,vie_quotidienne,TÔT MATIN IX-1-PL IX-3 LEVER,False
+Elle a mal au ventre.,IX-3 VENTRE MAL-AVOIR,vie_quotidienne,IX-3 MAL VENTRE AVOIR,False
+Je bois du jus d'orange.,IX-1 JUS D'ORANGE BOIRE,vie_quotidienne,IX-1 JUS ORANGE BOIRE,False
+Tu aimes les légumes ?,IX-2 LÉGUME+ AIMER QUESTION,vie_quotidienne,TU LÉGUME+ AIMER ?,False
+Il a perdu ses clés.,IX-3 CLÉ+ PERDRE,vie_quotidienne,IX-3 POSS-3 CLÉ+ PERDRE,False
+Nous faisons du sport.,IX-1-PL SPORT FAIRE,vie_quotidienne,IX-1-PL SPORT FAIRE,True
+Vous avez des enfants ?,IX-2-PL ENFANT+ AVOIR QUESTION,vie_quotidienne,IX-2-PL ENFANT+ AVOIR ?,False
+Ils habitent en ville.,IX-3-PL VILLE HABITER,vie_quotidienne,IX-3-PL VILLE HABITER,True
+On va au cinéma.,IX-1-PL CINÉMA ALLER,vie_quotidienne,IX-1-PL CINÉMA ALLER,True
+Elle a besoin d'aide.,IX-3 AIDE BESOIN-AVOIR,vie_quotidienne,IX-3 BESOIN AIDE AVOIR,False
+Je range mes affaires.,IX-1 AFFAIRE+ RANGER,vie_quotidienne,IX-1 POSS-1 AFFAIRE+ RANGER,False
+Tu as fini tes devoirs ?,IX-2 DEVOIR+ FINIR QUESTION,vie_quotidienne,TU POSS-2 DEVOIR+ FINIR ?,False
+Il achète du pain.,IX-3 PAIN ACHETER,vie_quotidienne,IX-3 PAIN ACHETER,True
+Vous avez vu le film ?,IX-2-PL FILM VOIR QUESTION,vie_quotidienne,IX-2-PL FILM VOIR ?,False
+On se repose.,IX-1-PL SE-REPOSER,vie_quotidienne,IX-1-PL IX-3 REPOSER,False
+Elle a mal à la jambe.,IX-3 JAMBE MAL-AVOIR,vie_quotidienne,IX-3 MAL JAMBE,False
+Je prends le train.,IX-1 TRAIN PRENDRE,vie_quotidienne,IX-1 TRAIN PRENDRE,True
+Tu as soif ?,IX-2 SOIF AVOIR QUESTION,vie_quotidienne,TU SOIF AVOIR ?,False
+Il travaille dur.,IX-3 DUR TRAVAILLER,vie_quotidienne,IX-3 DUR TRAVAILLER,True
+Nous faisons la vaisselle.,IX-1-PL VAISSELLE FAIRE,vie_quotidienne,IX-1-PL VAISSELLE FAIRE,True
+Vous avez des frères et sœurs ?,IX-2-PL FRÈRE+ SŒUR+ AVOIR QUESTION,vie_quotidienne,IX-2-PL SŒUR+ FRÈRE+ AVOIR ?,False
+On se lave les mains.,IX-1-PL MAIN+ SE-LAVER,vie_quotidienne,IX-1-PL IX-3 MAIN+ LAVER,False
+Elle a mal à la gorge.,IX-3 GORGE MAL-AVOIR,vie_quotidienne,IX-3 MAL GORGE,False
+Je mange une salade.,IX-1 SALADE MANGER,vie_quotidienne,IX-1 SALADE MANGER,True
+Tu as sommeil ?,IX-2 SOMMEIL AVOIR QUESTION,vie_quotidienne,TU SOMMEIL AVOIR ?,False
+Il a oublié son sac.,IX-3 SAC OUBLIER,vie_quotidienne,IX-3 POSS-3 SAC OUBLIER,False
+Vous avez des animaux ?,IX-2-PL ANIMAL+ AVOIR QUESTION,vie_quotidienne,IX-2-PL ANIMAL+ AVOIR ?,False
+On se brosse les dents.,IX-1-PL DENT+ SE-BROSSER,vie_quotidienne,IX-1-PL IX-3 DENT+ BROSSER,False
+Elle a mal à la tête.,IX-3 TÊTE MAL-AVOIR,vie_quotidienne,IX-3 MAL TÊTE,False
+Tu as chaud ?,IX-2 CHAUD AVOIR QUESTION,vie_quotidienne,TU CHAUD AVOIR ?,False
+Il a besoin d'argent.,IX-3 ARGENT BESOIN-AVOIR,vie_quotidienne,IX-3 ARGENT BESOIN AVOIR,False
+Nous faisons les courses.,IX-1-PL COURSE+ FAIRE,vie_quotidienne,IX-1-PL COURSE+ FAIRE,True
+Vous avez des amis ?,IX-2-PL AMI+ AVOIR QUESTION,vie_quotidienne,IX-2-PL AMI+ AVOIR ?,False
+Ils regardent la télé.,IX-3-PL TÉLÉ REGARDER,vie_quotidienne,IX-3-PL TÉLÉ REGARDER,True
+On se lève tard.,IX-1-PL TARD SE-LEVER,vie_quotidienne,TARD IX-1-PL IX-3 LEVER,False
+Elle a mal au dos.,IX-3 DOS MAL-AVOIR,vie_quotidienne,IX-3 MAL DOS AVOIR,False
