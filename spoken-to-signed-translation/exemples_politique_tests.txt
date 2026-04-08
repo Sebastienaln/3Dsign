@@ -1,0 +1,52 @@
+EXEMPLES DE TEST - MODELE POLITIQUE FR -> GLOSS
+Date: 2026-04-08 13:28:11
+Modele de base: model_fr_gloss_mega/final
+Nouveau modele: model_fr_gloss_mega_politique/final
+
+[1] FR: Le gouvernement doit accelerer la reforme de l'ecole.
+    OLD: GOUVERNEMENT RÉFORME ECOLE ACCELER DEVOIR
+    NEW: GOUVERNEMENT RÉFORME ÉCOLE ACCELER DEVOIR
+
+[2] FR: L'opposition demande un referendum sur cette loi.
+    OLD: OPPOSITION SELENDUM LOI DEMANDER
+    NEW: OPPOSITION LISTUM LOI DEMANDER
+
+[3] FR: Nous devons proteger le pouvoir d'achat des familles modestes.
+    OLD: IX-1-PL PROTEGER POUVOIR ACHAT FAMILLE MODÈTE
+    NEW: FAMILLE MODESTE POUVOIR ACHAT PROTEGER DEVOIR IX-1-PL
+
+[4] FR: Combien de deputes ont vote contre le budget ?
+    OLD: DEPUTE+ VOTER BUDGET COMBIEN
+    NEW: DEPUTE+ BUDGET VOTE COMBIEN
+
+[5] FR: Personne ne veut augmenter les impots en pleine crise.
+    OLD: IMPOT CRISE AUGMENTER VOULOIR PERSONNE
+    NEW: IMPOT+ PLEINE CRISE AUGMENTER VOULOIR PERSONNE
+
+[6] FR: La France investit massivement dans la transition ecologique.
+    OLD: FRANCE TRANSITION ÉCOLOGIQUE INVESTIR MASSIFEMENT
+    NEW: FRANCE TRANSITION ÉCOLOGIQUE INVESTIR MASSIFEMENT
+
+[7] FR: Le ministre a annonce un plan pour reduire le chomage des jeunes.
+    OLD: MINISTRE PLAN REDUIRE CHOMAGE JEUNE
+    NEW: MINISTRE PLAN CHOMAGE JEUNE+ REDUIRE ANNONCER
+
+[8] FR: Pourquoi cette reforme des retraites est-elle si contestee ?
+    OLD: RETRAITE RÉFORME POURQUOI
+    NEW: RETRAITE RÉFORME POURQUOI
+
+[9] FR: Les syndicats refusent cette mesure jugee injuste.
+    OLD: TRADITIONES MESURE JUIRE INUTILE RÉFENDRE
+    NEW: SYNDICALE+ MESURE JUIRE INJUSTIQUE REFUSER
+
+[10] FR: Le Parlement examinera le texte la semaine prochaine.
+    OLD: SEMAINE PROCHAINE PARLEMENT TEXTE RÉVOIR
+    NEW: PARLEMENT TEXTE SEMAINE PROCHAINE RÉVOIR
+
+[11] FR: Nous defendons une politique de sante plus equitable.
+    OLD: IX-1-PL POLITIQUE SANTE ÉQUITABLE DEFENDRE
+    NEW: POLITIQ SANTE ÉQUITABLE DEFENDRE IX-1-PL
+
+[12] FR: Cette proposition menace la cohesion sociale du pays.
+    OLD: PROPOSITION COHESION SOCIAL DÉPOSSIQUER
+    NEW: PROPOSITION COHESION SOCIAL PAYS MENAGER
