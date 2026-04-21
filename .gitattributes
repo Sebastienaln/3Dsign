@@ -1,0 +1,1 @@
+spoken-to-signed-translation/model_fr_gloss_mega_politique/final/model.safetensors filter=lfs diff=lfs merge=lfs -text

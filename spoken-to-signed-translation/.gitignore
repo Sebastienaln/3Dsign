@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Large model files - keep structure but ignore checkpoints
+model_fr_gloss/checkpoint-*/
+model_fr_gloss_20k/checkpoint-*/
+model_fr_gloss_mega/checkpoint-*/
+
+# Data files (optional - uncomment if too large)
+# *.csv
+
+# OS
+.DS_Store
+Thumbs.db
